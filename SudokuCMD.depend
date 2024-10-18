@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1729235986 source:z:\meu drive\projetos\sudokucmd\sudokucmd.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<fcntl.h>
+	<io.h>
+	<time.h>
+	<ctype.h>
+	<windows.h>
+	<wchar.h>
+	"sudokucmd.h"
+
+1729235249 z:\meu drive\projetos\sudokucmd\sudokucmd.h
+
+1729235258 source:z:\meu drive\projetos\sudokucmd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<fcntl.h>
+	<io.h>
+	<time.h>
+	<ctype.h>
+	<windows.h>
+	<wchar.h>
+	"sudokucmd.h"
+
